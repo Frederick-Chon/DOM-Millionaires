@@ -4,7 +4,7 @@ DOM Millionaires is a small project to practice using higher order array methods
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/DOM-Millionaires/)
 
 ## Built Using
 

@@ -7,6 +7,9 @@ const calculateWealthBtn = document.getElementById('calculate-wealth');
 
 let data = [];
 
+// Initialize with 5 random users
+getRandomUser();
+getRandomUser();
 getRandomUser();
 getRandomUser();
 getRandomUser();
